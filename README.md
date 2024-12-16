@@ -1,1 +1,1 @@
-# DeepLab3_Text_behind_iamge
+# DeepLab3_Text_behind_image
